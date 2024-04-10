@@ -1,3 +1,6 @@
 pip install flask
 pip install flask-wtf
 pip install email_validator
+pip install Flask-SQLAlchemy
+pip install flask-bcrypt
+pip install flask-login
