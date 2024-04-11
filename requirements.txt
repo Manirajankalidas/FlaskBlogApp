@@ -4,3 +4,4 @@ pip install email_validator
 pip install Flask-SQLAlchemy
 pip install flask-bcrypt
 pip install flask-login
+pip install pillow
